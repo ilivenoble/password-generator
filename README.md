@@ -1,6 +1,6 @@
-# Password-Generator
+# Password Generator
 
-This is a solution to the [Scrimba's Password Generator solo project](https://scrimba.com/learn/frontend/module-32-solo-project-unit-converter-c2g86PSZ). This solo project helps to improve coding skills by building realistic projects. 
+This is a solution to [Scrimba's Password Generator solo project](https://scrimba.com/learn/frontend/module-34-solo-project-password-generator-coa6a4d1595f9f905934f09f5). This solo project helps to improve coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -16,7 +16,7 @@ This is a solution to the [Scrimba's Password Generator solo project](https://sc
 
 ## Overview
 
-This solo project is solution to Scrimba's password Generator app. 
+This solo project is a solution to Scrimba's password Generator app. 
 
 It is an app that generates four different passwords
 
