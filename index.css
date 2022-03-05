@@ -1,0 +1,100 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    font-family: 'Karla', sans-serif;
+}
+
+.container {
+    max-width: 550px;
+    height: 550px;
+    background-color: #ECFDF5;
+    margin: 0 auto;
+    padding: 100px 50px;
+    margin-top: 50px;
+    border: 10px solid #1F2937;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.description {
+    
+    margin-top: 50px;
+    margin-bottom: 0;
+    border-radius: 10px 10px 0 0;
+}
+
+header h1 {
+    font-weight: 800;
+    font-size: 40px;
+    font-style: normal;
+    margin: 0;
+}
+.random-text {
+    display: block;
+    color: green;
+}
+
+header p {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #6B7280;
+    margin: 0;
+}
+
+.generator {
+    margin: 50px 0 ;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+#password-length{
+    margin-right: 20px;
+    width: 150px;
+    padding: 10px 15px;
+    border: 3px solid green;
+    border-radius: 5px;
+    outline: none;
+    text-align: center;
+    font-weight: bold;
+}
+
+#generate-password {
+    padding: 10px 15px;
+    background-color: green;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+
+
+#generate-password:hover, :active {
+    background-color: aquamarine;
+    color: black;
+}
+.description hr {
+    margin-bottom: 0;
+}
+.password-displayer {
+    height: 250px;
+    margin-top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-basis: 50%;
+    /* padding: 5px; */
+}
+.displayer {
+    margin: 15px 0;
+    height: 50px;
+    width: 45%;
+    background: #273549;
+    color: white;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+    text-align: center;
+}
