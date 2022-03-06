@@ -77,7 +77,7 @@ Also, I applied my knowledge of making a div centered in CSS using:
 }
 ```
 ### Continued development
-I plan to make this App reponsive by adding some Responsive Design principles like:
+I plan to make this App responsive by adding some Responsive Design principles like:
 - Media Queries.
 - CSS Units like rem amd em.
 
