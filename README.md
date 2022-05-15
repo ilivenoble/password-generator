@@ -89,7 +89,9 @@ I also hope to complete the second stretch requirement which is 1-click copy pas
 - [Scrimba](https://www.scrimba.com) - This helped me to know better about CSS, particularly in centering a div vertically and horizontally. I really liked this pattern and will use it going forward.
 - [Freecodecamp](https://www.freedcodecamp.com) - This is   where I learned basics of HTML, CSS, and javascript before undertaking Scrimba's Front End Career path. I'd recommend it to anyone still learning this concepts.
 
+- [View Project](https://ilivenoble.github.io/password-generator/)
 
 ## Author
 
-- Twitter - [Noble](https://www.twitter.com/ilive_noble)
+- [Twitter](https://www.twitter.com/ilive_noble)
+- [LinkedIn](https://www.linkedin.com/in/enyinnaya-noble)
