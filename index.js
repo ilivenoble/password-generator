@@ -10,7 +10,7 @@ const LengthInput = document.getElementById("password-length");
 function generatePassword() {
     let characters = numberArray.join("");
     let passwordLength = LengthInput.value;
-    
+   
       function randomPasswordOne() {
         let password = "";
         for (let i = 0; i <= passwordLength - 1; i++) {
